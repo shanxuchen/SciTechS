@@ -201,15 +201,15 @@ Heavens-Above是一个功能强大的网站，为天文爱好者提供了丰富�
 无论是国际空间站、星链卫星，还是哈勃空间望远镜等其他人造卫星，Heavens-Above都能提供详细的过境预报和实时位置信息。通过掌握本指南中介绍的技巧和方法，您将能够更有效地利用这个网站，提升您的卫星观测体验。
 记住，实际观测效果会受到多种因素的影响，包括天气条件、光污染和大气透明度等。因此，即使预报显示卫星可见，有时也可能因为这些外部因素而难以观测到。不过，随着经验的积累和技巧的提高，您将能够更好地利用Heavens-Above网站，享受观测人造卫星的乐趣。
 ## 参考资料
-[2] 特别策划：想玩转科学数据可视化？这些工具别错过！. https://nadc.china-vo.org/article/20240219110051. 
-[10] Heavens-Above. https://heavens-above.com/. 
-[14] 选择所在地. https://heavens-above.com/SelectLocation.aspx?lat=0&lng=0&loc=Unspecified&alt=0&tz=UCT. 
-[15] Live Sky View. https://heavens-above.com/skyview/?lat=0&lng=0&cul=zh#/livesky. 
-[16] 如何使用Heavens-above软件看到星链火车. https://www.bilibili.com/read/cv4724147/. 
-[17] Heavens Above等网站提供了SpaceX星链卫星的最佳观测追踪指南. https://www.cnbeta.com.tw/articles/science/972987.htm. 
-[18] 历次发射的SpaceX星链卫星过境时刻查询 - 高海鹏老师的博客. https://www.gaohaipeng.com/3908.html. 
-[29] 业余无线电入门：如何接收SSTV图像. https://zhuanlan.zhihu.com/p/669731646. 
-[41] 国际空间站 - 可见过境. https://heavens-above.com/PassSummary.aspx?satid=25544&lat=0&lng=0&loc=Unspecified&alt=0&tz=UCT. 
-[42] 人造卫星数据库. https://heavens-above.com/Satellites.aspx?lat=0&lng=0&loc=Unspecified&alt=0&tz=UCT. 
-[44] 常见问题. https://heavens-above.com/faq.aspx?lat=0&lng=0&loc=Unspecified&alt=0&tz=UCT. 
-[45] 日环食, 2027年2月6日. https://heavens-above.com/SolarEclipse.aspx?jdmax=2461443.16721909. 
+[2] 特别策划：想玩转科学数据可视化？这些工具别错过！. https://nadc.china-vo.org/article/20240219110051.  
+[10] Heavens-Above. https://heavens-above.com/.   
+[14] 选择所在地. https://heavens-above.com/SelectLocation.aspx?lat=0&lng=0&loc=Unspecified&alt=0&tz=UCT.   
+[15] Live Sky View. https://heavens-above.com/skyview/?lat=0&lng=0&cul=zh#/livesky.   
+[16] 如何使用Heavens-above软件看到星链火车. https://www.bilibili.com/read/cv4724147/.   
+[17] Heavens Above等网站提供了SpaceX星链卫星的最佳观测追踪指南. https://www.cnbeta.com.tw/articles/science/972987.htm.   
+[18] 历次发射的SpaceX星链卫星过境时刻查询 - 高海鹏老师的博客. https://www.gaohaipeng.com/3908.html.   
+[29] 业余无线电入门：如何接收SSTV图像. https://zhuanlan.zhihu.com/p/669731646.   
+[41] 国际空间站 - 可见过境. https://heavens-above.com/PassSummary.aspx?satid=25544&lat=0&lng=0&loc=Unspecified&alt=0&tz=UCT.   
+[42] 人造卫星数据库. https://heavens-above.com/Satellites.aspx?lat=0&lng=0&loc=Unspecified&alt=0&tz=UCT.   
+[44] 常见问题. https://heavens-above.com/faq.aspx?lat=0&lng=0&loc=Unspecified&alt=0&tz=UCT.   
+[45] 日环食, 2027年2月6日. https://heavens-above.com/SolarEclipse.aspx?jdmax=2461443.16721909.   
