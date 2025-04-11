@@ -132,17 +132,17 @@ Ironwood计划在2025年晚些时候向Google Cloud客户提供。这将进一�
 4. 关注谷歌与其他云厂商在AI芯片领域的竞争格局变化
 谷歌Ironwood TPU芯片的发布标志着AI芯片技术的新突破，为AI推理应用提供了强大的硬件支持。随着Ironwood在谷歌云平台上的广泛应用，其对AI技术发展的推动作用将更加显著。
 ## 参考文献
-[3] https://zhuanlan.zhihu.com/p/1893591527793590845
-[16] https://m.36kr.com/p/3244098961669765
-[31] https://www.scensmart.com/news/google-releases-the-seventh-generation-tpu-chip-ironwood-ushering-in-a-new-era-of-ai-reasoning/
-[32] https://www.eet-china.com/mp/a395385.html
-[37] https://www.eet-china.com/mp/a395385.html
-[39] https://view.inews.qq.com/a/20250410A04J7W00?uid%5B0%5D=100005074749&uid%5B1%5D=100005074749
-[43] https://tech.ifeng.com/c/8iPp0vCPbLh
-[46] https://36kr.com/p/3244098961669765
-[47] https://finance.sina.com.cn/stock/relnews/us/2025-04-11/doc-inestmap3099086.shtml
-[50] https://news.qq.com/rain/a/20250410A089UO00
-[80] https://www.eet-china.com/news/202504108913.html
-[84] https://finance.eastmoney.com/a/202504103372561877.html
-[85] https://zhidx.com/p/474609.html
-[87] https://zhuanlan.zhihu.com/p/1893591527793590845 
+[3] https://zhuanlan.zhihu.com/p/1893591527793590845  
+[16] https://m.36kr.com/p/3244098961669765  
+[31] https://www.scensmart.com/news/google-releases-the-seventh-generation-tpu-chip-ironwood-ushering-in-a-new-era-of-ai-reasoning/  
+[32] https://www.eet-china.com/mp/a395385.html  
+[37] https://www.eet-china.com/mp/a395385.html  
+[39] https://view.inews.qq.com/a/20250410A04J7W00?uid%5B0%5D=100005074749&uid%5B1%5D=100005074749  
+[43] https://tech.ifeng.com/c/8iPp0vCPbLh  
+[46] https://36kr.com/p/3244098961669765  
+[47] https://finance.sina.com.cn/stock/relnews/us/2025-04-11/doc-inestmap3099086.shtml  
+[50] https://news.qq.com/rain/a/20250410A089UO00  
+[80] https://www.eet-china.com/news/202504108913.html  
+[84] https://finance.eastmoney.com/a/202504103372561877.html  
+[85] https://zhidx.com/p/474609.html  
+[87] https://zhuanlan.zhihu.com/p/1893591527793590845   
